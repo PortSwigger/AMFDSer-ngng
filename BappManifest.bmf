@@ -1,6 +1,7 @@
 Uuid: cfe12afbb9f642ffb1ad894c97bd7a22
 ExtensionType: 1
 Name: AMFDSer-ngng
+RepoName: amf-deserializer
 ScreenVersion: 1.0
 SerialVersion: 1
 MinPlatformVersion: 0
